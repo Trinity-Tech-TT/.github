@@ -1,5 +1,3 @@
-Of course! Here's a first version of a **README.md** you could use for your freelance team **Trinity Tech**:
-
 ---
 
 # Trinity Tech
