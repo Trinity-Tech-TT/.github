@@ -1,4 +1,3 @@
----
 
 # Trinity Tech
 
@@ -16,7 +15,6 @@ We are a passionate freelance team specializing in **Odoo** and **Flutter** deve
   - CRM, Sales, Inventory, Accounting, and more
   - Odoo Implementation, Setup, and Support
   - API Integration with external platforms
-  - Multi-vendor and multi-company setups
   - Tailored ERP solutions for SMEs
 
 - **Flutter Development**  
